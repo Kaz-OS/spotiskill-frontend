@@ -26,8 +26,8 @@ body {
 }
 
 @font-face {
-  font-family: "Spoty-font";
-  src: url("../../assets/fonts/Spoty-font/Gotham-Black.otf") format("woff2");
+  font-family: "Spoti-font";
+  src: url("../../assets/fonts/Spoti-font/Gotham-Black.otf") format("woff2");
   font-weight: 500;
   font-style: normal;
 }
