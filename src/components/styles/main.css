@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #121212;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+:root {
+  --spotify-green: #1db954;
+  --spotify-black: #121212;
+  --spotify-dark-gray: #181818;
+  --spotify-gray: #282828;
+  --spotify-light-gray: #b3b3b3;
+  --spotify-white: #ffffff;
+}
+
+@font-face {
+  font-family: "Spoty-font";
+  src: url("../../assets/fonts/Spoty-font/Gotham-Black.otf") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
