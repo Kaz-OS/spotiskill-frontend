@@ -3,7 +3,7 @@ header {
   background-color: #121212;
   display: flex;
   justify-content: space-between;
-  margin: 2rem 1.5rem 0 1.5rem;
+  margin: 2rem 3rem;
   align-items: center;
   & #spoty {
     font-size: 1.5rem;
@@ -22,4 +22,11 @@ header {
       }
     }
   }
+}
+
+#spoty {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }

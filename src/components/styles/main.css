@@ -31,3 +31,9 @@ body {
   font-weight: 500;
   font-style: normal;
 }
+main {
+  margin: 9rem 3rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
